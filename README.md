@@ -15,6 +15,7 @@ Regression models were applied
 
 ![Dataset_heatmap](https://github.com/user-attachments/assets/65a3f977-ebaf-4e0f-81f5-ae1dafb11415)
 
+![JobeRole_MaritalStatus_JobInvolvement_JobLevel vs Attrition](https://github.com/user-attachments/assets/5b0531aa-0003-444a-b256-67d7a3c939be)
 
 
 The accuracy of the logistic regression approach is                 : 85.03 %
