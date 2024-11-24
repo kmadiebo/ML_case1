@@ -11,6 +11,12 @@ As a data scientist you have been tasked with developing a model that efficientl
 Regression models were applied
 
 # Results 
+![Dataset_histogram](https://github.com/user-attachments/assets/301abc34-e839-4a6e-a155-796778c5ef49)
+
+![Dataset_heatmap](https://github.com/user-attachments/assets/65a3f977-ebaf-4e0f-81f5-ae1dafb11415)
+
+
+
 The accuracy of the logistic regression approach is                 : 85.03 %
 The accuracy of the SVM approach is                                 : 83.84 %
 The accuracy of the SVC approach is                                 : 83.50 %
